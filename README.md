@@ -1,16 +1,5 @@
 # chool_check
 
-A new Flutter project.
+플러터로 구글지도 api 를 연동해서 자신의 위치를 가지고 오고
+일정한 장소를 지정한 뒤 그 장소에 도착하면 버튼을 눌러서 정보를 보낼 수 있습니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
